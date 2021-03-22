@@ -1,10 +1,14 @@
-<h3 align="center">
+<div align="center">
+
+<h3>
 
 ![PRINTS](./layouts/logo.png)
 
-Desafio (em desenvolvimento) no Programa Ignite - Trilha ReactJS - da [Rocketseat], utilizando **HTML**, **CSS**, **JAVASCRIPT**, **ReactJS** e **Typescript**.
+Desafio realizado no Programa Ignite - Trilha ReactJS - da [Rocketseat], utilizando **HTML**, **CSS**, **JAVASCRIPT**, **ReactJS** e **Typescript**.
 
 </h3>
+
+  <img src="./layouts/function.gif" alt="demo-web" height="425">
 
 </div>
 
@@ -45,6 +49,9 @@ $ cd desafio2ignite
 
 # Instale as dependências
 $ yarn
+
+# Execute a FAKE Api com JSON Server
+$ yarn server
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn start
